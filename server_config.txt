@@ -1,0 +1,3 @@
+min_number=1
+max_number=10
+request_interval=10
